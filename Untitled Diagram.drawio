@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-12-29T22:22:10.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.15" etag="bgea3RbCW6H7eIlBIim2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-30T00:41:59.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tqmdYeP36bISW8Ar1csf" version="22.1.15" type="github">
   <diagram name="Page-1" id="ZUHi_cFpA8YCc4I6dhga">
-    <mxGraphModel>
+    <mxGraphModel dx="1368" dy="1225" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-2" value="D4: INCIDENT RESPONSE AND OPERATIONS" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="148" y="-292" width="215" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-3" value="4.1 Given a scenario, use the appropriate tool to assess organizational security" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-228" y="-260" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-4" value="4.2&amp;nbsp; Summarize the importance of policies, processes, and procedures for incident response" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-94" y="57" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214.99666666666675" y="53.93330891927076" as="targetPoint" />
+            <mxPoint x="270.33" y="-32" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-5" value="4.3 Given an incident, utilize appropriate data sources to support an investigation" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="203" y="-112" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-6" value="4.4 Given an incident, apply mitigation techniques or controls to secure an environment" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="600" y="34" width="144" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-7" value="4.5 Explain key aspects of digital forensics" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="706" y="-172" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-10" value="Sub Objective: Log Files &amp;amp; SIEM Dashboards" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="163" y="113" width="110.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-18" value="Sub Objective: Tool Outputs &amp;amp; Metadata" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="373" y="52" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-19" value="Sub Objective: Configuration Changes" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="586" y="201" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-20" value="Sub Objective: Enpoint and Enterprise Security Solutions" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="751" y="211" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-21" value="Sub Objective: Investigation &amp;amp; Preservation" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="844" y="-126" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-22" value="Sub Objective: Evidence &amp;amp; Acquisition" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1002" y="-142" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-23" value="Sub Objective: File Manipulation and Forensic Tools" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-342" y="-126" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKXT7ZOwQHRQDOJcYtUU-24" value="Sub Objective: Network Recon &amp;amp; Discovery Tools" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-167" y="-106" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
